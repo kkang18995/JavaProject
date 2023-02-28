@@ -1,11 +1,11 @@
 package gitProject;
 
-public class Hello
+public class junggyumin
 {
 
 	public static void main(String[] args)
 	{
-		// 프로젝트 branch 하기 전입니다
+		// TODO Auto-generated method stub
 
 	}
 
